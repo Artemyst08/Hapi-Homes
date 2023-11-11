@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WEGL_testing-0.1";
 const contentToCache = [
     "Build/Hapi-Homes.loader.js",
-    "Build/Hapi-Homes.framework.js",
-    "Build/Hapi-Homes.data",
-    "Build/Hapi-Homes.wasm",
+    "Build/Hapi-Homes.framework.js.gz",
+    "Build/Hapi-Homes.data.gz",
+    "Build/Hapi-Homes.wasm.gz",
     "TemplateData/style.css"
 
 ];
